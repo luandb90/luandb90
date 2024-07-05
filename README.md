@@ -1,16 +1,29 @@
-## Hi there 👋
+- 🔭 Atualmente estou trabalhando em analista de NOC.
+- 🌱 Atualmente estou me aprofundando em JavaScript.
+- 📫 Como entrar em contato comigo: (11) 94457-4807.
 
-<!--
-**luandb90/luandb90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, me chamo Luan! 
+Bem vindo ao meu perfil GitHub 👋
 
-Here are some ideas to get you started:
+Atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor.
+Estou atualmente matriculado no 4° semestre em um curso de graduação em Engenharia de Software na Cruzeiro do Sul.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um ávido estudante, sempre em busca de atualizações no mundo da tecnologia.
+Fazer cursos de programação tornou-se um dos meus passatempos favoritos, uma prática que contribui significativamente para meu desenvolvimento profissional e pessoal.
+
+## Tecnologias:
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+## Estou aprendendo:
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
+
