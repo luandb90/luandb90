@@ -12,4 +12,7 @@ Sou um ávido estudante, sempre em busca de atualizações no mundo da tecnologi
 Fazer cursos de programação tornou-se um dos meus passatempos favoritos, uma prática que contribui significativamente para meu desenvolvimento profissional e pessoal.
 
 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+
 
