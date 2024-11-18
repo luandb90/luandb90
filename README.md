@@ -1,4 +1,4 @@
-- 🔭 Atualmente estou trabalhando em analista de NOC.
+- 🔭 Analista de NOC.
 - 🌱 Atualmente estou me aprofundando em JavaScript.
 - 📫 Como entrar em contato comigo: (11) 94457-4807.
 
