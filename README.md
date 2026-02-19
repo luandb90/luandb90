@@ -1,10 +1,10 @@
-- 🌱 Atualmente estou me aprofundando em Kotlin.
+- 🌱 Atualmente estou me aprofundando em Java.
 - 📫 Como entrar em contato comigo: (11) 94457-4807.
 
 Olá, me chamo Luan! 
 Bem vindo ao meu perfil GitHub 👋
 
-Atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor.
+Atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor back-end.
 Estou atualmente matriculado no 7° semestre em um curso de graduação em Engenharia de Software na Cruzeiro do Sul.
 
 Sou um ávido estudante, sempre em busca de atualizações no mundo da tecnologia.
