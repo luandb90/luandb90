@@ -1,4 +1,4 @@
-- 🌱 Atualmente estou me aprofundando em Java.
+- 🌱 Atualmente estou me aprofundando em Python.
 - 📫 Como entrar em contato comigo: (11) 94457-4807.
 
 Olá, me chamo Luan! 
